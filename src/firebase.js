@@ -13,7 +13,7 @@ const firebaseConfig = {
   projectId: "gligx-280e9",
   storageBucket: "gligx-280e9.appspot.com",
   messagingSenderId: "708090439454",
-  appId: "1:708090439454:web:bc6d3bf4b640eef05f8b0f",
+  appId: "1:708090439454:web:c250ad5beeb3c70b5f8b0f",
 };
 
 // Initialize Firebase
